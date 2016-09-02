@@ -1,6 +1,5 @@
-* [ ] - points
-* [ ] - bullet cool down
-* [ ] - crash explosion 
-* [ ] - sounds (bullet, hit, drive, break, crash)
-* [ ] - music (title, game, end)
-* [ ] - enemy cars and mines
+* sounds (bullet, hit, drive, break, crash)
+* bullet cooldown?
+* crash explosion 
+* music (title, game, end)
+* enemy cars and mines
