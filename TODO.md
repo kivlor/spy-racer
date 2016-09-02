@@ -5,3 +5,4 @@
 * crash explosion 
 * music (title, game, end)
 * enemy cars and mines
+* add road blocks to the game
