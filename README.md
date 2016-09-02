@@ -2,4 +2,4 @@
 
 A fun little PICO-8 game.
 
-![spy-racer](game.gif)
+![spy-racer](spyracer.p8.png)
