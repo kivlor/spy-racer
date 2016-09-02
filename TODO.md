@@ -1,4 +1,4 @@
-* sounds (bullet, hit, drive, break, crash)
+* sounds (drive, break, crash)
 * player health?
 * bullet cooldown?
 * crash explosion 
