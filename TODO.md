@@ -1,8 +1,6 @@
-* sounds (drive, crash)
-* player health
-* offroad damage
 * bullet cooldown
-* crash explosion 
 * music (title, game, end)
-* enemy cars and mines
-* add road blocks to the game
+* enemy cars
+* homing missiles with a warning
+* road blocks
+* road markers with bonus points
