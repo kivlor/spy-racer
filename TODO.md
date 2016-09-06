@@ -1,4 +1,3 @@
-* SCREEN SHAKE
 * enemy cars
 * road blocks
 * bonus point road markers
