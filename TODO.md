@@ -1,5 +1,6 @@
+* SCREEN SHAKE
 * enemy cars
 * road blocks
-* road markers with bonus points
+* bonus point road markers
 * diffuclty ramp up
 * music (title, game, end)
