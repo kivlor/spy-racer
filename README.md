@@ -1,3 +1,3 @@
 ### Spy Racer
 
-A fun little PICO-8 game.
+A PICO-8 game.
